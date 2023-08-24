@@ -1,3 +1,3 @@
 # data_application
 
-Um app simplicado de dados.
+Um app simplicado de dado.
