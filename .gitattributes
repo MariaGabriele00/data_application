@@ -1,3 +1,1 @@
-static/* linguist-vendored
-data_application/static/* linguist-vendored
-data_application/templates/* linguist-vendored
+*.dart linguist-detectable=true
